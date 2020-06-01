@@ -1,2 +1,2 @@
 # drumkit
-simple drum kit app made with html, css, js
+simple drum kit app made with HTML, CSS, JS
